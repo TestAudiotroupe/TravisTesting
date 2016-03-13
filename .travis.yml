@@ -1,0 +1,8 @@
+install:
+	npm install
+deploy:
+	skip_cleanup: true
+git:
+  depth: 3
+
+
